@@ -16,3 +16,11 @@ lightbox = true
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
+# About page
+[[menu.main]]
+  identifier = "about"
+  name = "About"
+  url = "/about/"
+  weight = 1
+    pre = "<i class='fa-solid fa-circle-question'></i> "
