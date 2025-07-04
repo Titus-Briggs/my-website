@@ -1,0 +1,18 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'FixIt'
+
+# Direct html image sizing (example if testing, nova logo)
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+# Click on images to zoom in test
+[params.page]
+lightbox = true
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
