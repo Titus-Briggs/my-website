@@ -42,9 +42,7 @@ featuredImage: false
 
 # See details front matter: https://fixit.lruihao.cn/documentation/content-management/introduction/#front-matter
 ---
-
-<img src="/my-website/images/nova_logo.png" width="200%">
-
+<img src="{{ "images/nova_logo.png" | relURL }}" width="200%">
 
 ## Nova Centurion Swimming Club 
 Nottingham | Aug 2023 to May 2024
@@ -60,24 +58,20 @@ Nottingham | Aug 2023 to May 2024
 
 ## The Data
 
-{{< figure src="/images/data_analysis.png" caption="Excel worksheet of swim times with analysis" link="/images/data_analysis.png" width=60% >}} 
-
-{{< figure src="{{ "/my-website/images/data_analysis.png" | relURL }}" caption="Excel worksheet of swim times with analysis" link="{{ "my-website/images/data_analysis.png" | relURL }}" width="60%" >}}
-
+{{< figure src="{{ "images/data_analysis.png" | relURL }}" caption="Excel worksheet of swim times with analysis" link="{{ "images/data_analysis.png" | relURL }}" width="60%" >}}
 
 This is a test to check text wrapping around images
 
 **add explanation of what I did**
 
-
 ## Goal Setting
 
-{{< figure src="/my-website/images/goal_setting.png" caption="Goal setting with the swimmers and tracking how far from targets at swim meets" link="/my-website/images/goal_setting.png" >}}
+{{< figure src="{{ "images/goal_setting.png" | relURL }}" caption="Goal setting with the swimmers and tracking how far from targets at swim meets" link="{{ "images/goal_setting.png" | relURL }}" >}}
 
 **add explanation of this too**
 
 ## Heart Rate Tracking
 
-{{< figure src="/images/HR.png" caption="Monitoring heart rate zones of swimmers" link="/images/HR.png" >}}
+{{< figure src="{{ "images/HR.png" | relURL }}" caption="Monitoring heart rate zones of swimmers" link="{{ "images/HR.png" | relURL }}" >}}
 
 **Add explanation for this as well**
