@@ -1,6 +1,6 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'https://titus-briggs.github.io/my-website/'
+languageCode = 'en-uk'
+title = 'Titus Briggs Portfolio'
 theme = 'FixIt'
 
 # Direct html image sizing (example if testing, nova logo)
@@ -49,3 +49,7 @@ lightbox = true
     weight = 3
     [menu.main.params]
       icon = "fa-solid fa-tags"
+
+# Colours
+[params]
+  customCSS = ["css/style.scss"]

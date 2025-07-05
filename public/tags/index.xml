@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on My New Hugo Site</title>
-    <link>http://localhost:1313/tags/</link>
-    <description>Recent content in Tags on My New Hugo Site</description>
+    <title>Tags on Titus Briggs Portfolio</title>
+    <link>http://localhost:1313/my-website/tags/</link>
+    <description>Recent content in Tags on Titus Briggs Portfolio</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
+    <language>en-uk</language>
     <lastBuildDate>Thu, 03 Jul 2025 10:10:14 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/my-website/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Athletes</title>
-      <link>http://localhost:1313/tags/athletes/</link>
+      <link>http://localhost:1313/my-website/tags/athletes/</link>
       <pubDate>Thu, 03 Jul 2025 10:10:14 +0100</pubDate>
-      <guid>http://localhost:1313/tags/athletes/</guid>
+      <guid>http://localhost:1313/my-website/tags/athletes/</guid>
       <description></description>
     </item>
     <item>
       <title>Data Analysis</title>
-      <link>http://localhost:1313/tags/data-analysis/</link>
+      <link>http://localhost:1313/my-website/tags/data-analysis/</link>
       <pubDate>Thu, 03 Jul 2025 10:10:14 +0100</pubDate>
-      <guid>http://localhost:1313/tags/data-analysis/</guid>
+      <guid>http://localhost:1313/my-website/tags/data-analysis/</guid>
       <description></description>
     </item>
   </channel>

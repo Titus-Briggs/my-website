@@ -1,0 +1,32 @@
+:root {
+  --pm-text: #bbc2cf;
+  --pm-primary: #fae98e;
+  --pm-accent: #da8548;
+  --pm-link: #c678dd;
+  --pm-heading: #51afef;
+  --pm-subheading: #fae98c;
+}
+
+/* Don't override body background-color */
+
+/* Text color */
+body {
+  color: var(--pm-text);
+}
+
+h1 {
+  color: var(--pm-heading);
+}
+
+h2, h3 {
+  color: var(--pm-subheading);
+}
+
+a {
+  color: var(--pm-link);
+  transition: color 0.3s ease;
+}
+
+a:hover {
+  color: #fffff0;
+}
