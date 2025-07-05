@@ -51,13 +51,10 @@ lightbox = true
       icon = "fa-solid fa-tags"
 
 # Colours
-[params]
-  customCSS = ["css/style.scss"]
 
-
-#[params.style]
-#  primaryColor = "#fae98e"
-#  secondaryColor = "#da8548"
-#  linkColor = "#c678dd"
-#  headingColor = "#51afef"
-#  textColor = "#bbc2cf"
+[params.style]
+  primaryColor = "#fae98e"
+  secondaryColor = "#da8548"
+  linkColor = "#c678dd"
+  headingColor = "#51afef"
+  textColor = "#bbc2cf"
