@@ -55,9 +55,3 @@ lightbox = true
 [params]
   customSCSS = ["css/_custom.scss"]
 
-[params.style]
-  primaryColor = "#c678dd"
-  secondaryColor = "#da8548"
-  linkColor = "#c678dd"
-  headingColor = "#51afef"
-  textColor = "#bbc2cf"
