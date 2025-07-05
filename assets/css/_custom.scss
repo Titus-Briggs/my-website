@@ -1,19 +1,27 @@
+/* ========================================
+   CSS Variables: Theme Colors
+   ======================================== */
 :root {
-  --pm-text: #bbc2cf;
-  --pm-primary: #fae98e;
-  --pm-accent: #da8548;
-  --pm-link: #c678dd;
-  --pm-heading: #51afef;
-  --pm-subheading: #c678dd;
+  --pm-text:        #bbc2cf;
+  --pm-primary:     #c678dd;
+  --pm-accent:      #da8548;
+  --pm-link:        #c678dd;
+  --pm-heading:     #51afef;
+  --pm-subheading:  #c678dd;
+  --pm-hover:       #fffff0;
 }
 
-/* Don't override body background-color */
-
-/* Text color */
+/* ========================================
+   Global Typography
+   ======================================== */
 body {
   color: var(--pm-text);
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
 }
 
+/* ========================================
+   Headings
+   ======================================== */
 h1 {
   color: var(--pm-heading);
 }
@@ -22,11 +30,34 @@ h2, h3 {
   color: var(--pm-subheading);
 }
 
+/* ========================================
+   Links
+   ======================================== */
 a {
   color: var(--pm-link);
+  text-decoration: none;
   transition: color 0.3s ease;
 }
 
 a:hover {
-  color: #fffff0;
+  color: var(--pm-hover);
+}
+
+/* ========================================
+   Navigation Styling
+   ======================================== */
+.navbar .menu a {
+  color: var(--pm-subheading) !important;
+  transition: color 0.3s ease;
+}
+
+.navbar .menu a:hover {
+  color: var(--pm-hover) !important;
+}
+
+/* ========================================
+   Site Title
+   ======================================== */
+.site-branding .site-title {
+  color: var(--pm-primary) !important;
 }
