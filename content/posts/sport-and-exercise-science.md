@@ -1,12 +1,12 @@
 ---
 title: Sport and Exercise Science
-subtitle:
-date: 2025-07-06T10:15:56+01:00
+subtitle: What I was up to at University
+date: 2025-07-06T10:34:10+01:00
 slug: aff2624
-draft:
+draft: 
 author:
-  name:
-  link:
+  name: Titus Briggs
+  link: https://www.linkedin.com/in/titus-briggs-sports-data-analyst-1584b025a/ 
   email:
   avatar:
 description:
@@ -17,7 +17,7 @@ weight: 0
 tags:
   - Sport Science
 categories:
-  - Sport Science
+  - draft
 hiddenFromHomePage: false
 hiddenFromSearch: false
 hiddenFromRelated: false
@@ -39,12 +39,10 @@ repost:
 
 # See details front matter: https://fixit.lruihao.cn/documentation/content-management/introduction/#front-matter
 ---
-## My Course
+## My Time at University
 
-A bit of what I have been up to over the years.
 
 <!--more-->
 
-
-insert photos, e.g. nutrition raw data
+Add info of what I have done, photos (e.g. nutrition raw data year 2)
 
