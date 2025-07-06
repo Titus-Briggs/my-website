@@ -3,7 +3,7 @@ title: Sport and Exercise Science
 subtitle:
 date: 2025-07-06T10:15:56+01:00
 slug: aff2624
-draft: true
+draft:
 author:
   name:
   link:
