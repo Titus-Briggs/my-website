@@ -3,13 +3,13 @@ languageCode = 'en-uk'
 title = 'Titus Briggs Portfolio'
 theme = 'FixIt'
 
-# Direct html image sizing (example if testing, nova logo)
+# ===== Direct html image sizing (example if testing, nova logo) =====
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
 
-# Click on images to zoom in test
+# ===== Click on images to zoom in =====
 [params.page]
 lightbox = true
 
@@ -17,7 +17,7 @@ lightbox = true
   [caches.images]
     dir = ':cacheDir/images'
 
-# About page
+# ===== About page =====
 [[menu.main]]
   identifier = "about"
   name = "About"
@@ -25,7 +25,7 @@ lightbox = true
   weight = 1
     pre = "<i class='fa-solid fa-circle-question'></i> "
 
-# Categories and tags
+# ===== Categories and tags =====
 
  [[menu.main]]
     identifier = "categories"
@@ -49,6 +49,18 @@ lightbox = true
     weight = 3
     [menu.main.params]
       icon = "fa-solid fa-tags"
+
+# ===== Contact me =====
+
+[[params.social]]
+name = "LinkedIn"
+icon = "fa-brands fa-linkedin"
+url = "https://www.linkedin.com/in/titus-briggs-sports-data-analyst-1584b025a/"
+
+[[params.social]]
+name = "Email"
+icon = "fa-solid fa-envelope"
+url = "mailto:briggstitus123@gmail.com"
 
 # Colours
 
