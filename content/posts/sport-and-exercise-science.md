@@ -3,7 +3,7 @@ title: Sport and Exercise Science
 subtitle: What I was up to at University
 date: 2025-07-06T10:34:10+01:00
 slug: aff2624
-draft: 
+draft: false
 author:
   name: Titus Briggs
   link: https://www.linkedin.com/in/titus-briggs-sports-data-analyst-1584b025a/ 
@@ -12,12 +12,12 @@ author:
 description:
 keywords:
 license:
-comment: false
+comment: this is a test
 weight: 0
 tags:
   - Sport Science
 categories:
-  - draft
+  - Sport Science
 hiddenFromHomePage: false
 hiddenFromSearch: false
 hiddenFromRelated: false
