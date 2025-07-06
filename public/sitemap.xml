@@ -1,38 +1,50 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/my-website/tags/athletes/</loc>
+    <loc>https://titus-briggs.github.io/my-website/categories/</loc>
+    <lastmod>2025-07-06T10:34:10+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://titus-briggs.github.io/my-website/posts/</loc>
+    <lastmod>2025-07-06T10:34:10+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://titus-briggs.github.io/my-website/posts/aff2624/</loc>
+    <lastmod>2025-07-06T10:34:10+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://titus-briggs.github.io/my-website/categories/sport-science/</loc>
+    <lastmod>2025-07-06T10:34:10+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://titus-briggs.github.io/my-website/tags/sport-science/</loc>
+    <lastmod>2025-07-06T10:34:10+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://titus-briggs.github.io/my-website/tags/</loc>
+    <lastmod>2025-07-06T10:34:10+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://titus-briggs.github.io/my-website/</loc>
+    <lastmod>2025-07-06T10:34:10+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://titus-briggs.github.io/my-website/tags/athletes/</loc>
     <lastmod>2025-07-03T10:10:14+01:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/my-website/categories/</loc>
+    <loc>https://titus-briggs.github.io/my-website/tags/data-analysis/</loc>
     <lastmod>2025-07-03T10:10:14+01:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/my-website/tags/data-analysis/</loc>
+    <loc>https://titus-briggs.github.io/my-website/categories/data-analytics/</loc>
     <lastmod>2025-07-03T10:10:14+01:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/my-website/categories/data-analytics/</loc>
+    <loc>https://titus-briggs.github.io/my-website/posts/5f0dded/</loc>
     <lastmod>2025-07-03T10:10:14+01:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/my-website/posts/</loc>
-    <lastmod>2025-07-03T10:10:14+01:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/my-website/posts/5f0dded/</loc>
-    <lastmod>2025-07-03T10:10:14+01:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/my-website/tags/</loc>
-    <lastmod>2025-07-03T10:10:14+01:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/my-website/</loc>
-    <lastmod>2025-07-03T10:10:14+01:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/my-website/about/</loc>
+    <loc>https://titus-briggs.github.io/my-website/about/</loc>
   </url>
 </urlset>
