@@ -16,7 +16,7 @@ As the site evolves, it will feature:
 ---
 
 ### Technical Learning
-- Working through *CS50’s Introduction to Programming with Python* via edX  
+- Currently: Working through *CS50’s Introduction to Programming with Python* via edX  
 - Building real-world projects with Python and GitHub  
 - Exploring large-scale data handling and SQL
 
