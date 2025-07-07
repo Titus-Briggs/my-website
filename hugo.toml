@@ -57,6 +57,6 @@ lightbox = true
   Email = "mailto:briggstitus123@gmail.com"
 
 # ===== Colours =====
-# not using for the time being but will update when happy with look
- #[params]
- # customSCSS = ["css/_custom.scss"]
+
+[params]
+  customSCSS = ["css/_custom.scss"]
