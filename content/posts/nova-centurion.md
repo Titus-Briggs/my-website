@@ -42,7 +42,7 @@ featuredImage: false
 
 # See details front matter: https://fixit.lruihao.cn/documentation/content-management/introduction/#front-matter
 ---
-<img src="/my-website/images/nova_logo.png" width="200%">
+<img src="/my-website/images/nova_logo.png" width="160%">
 
 Nottingham | Aug 2023 to May 2024
 <!--more-->
