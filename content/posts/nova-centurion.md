@@ -95,7 +95,7 @@ Even without editing software or extended review time, the combination of access
 
 ## Heart Rate Tracking
 
-{{< figure src="/my/website/images/polar_monitor.png" caption="Polar heart rate monitor" link="/my-website/images/polar_monitor.png" >}}
+{{< figure src="/my-website/images/polar_monitor.png" caption="Polar heart rate monitor" link="/my-website/images/polar_monitor.png" >}}
 
 {{< figure src="/my-website/images/HR.png" caption="Monitoring heart rate zones of swimmers" link="/my-website/images/HR.png" >}}
 
@@ -123,7 +123,7 @@ We revisited and adjusted goals regularly, especially as technique improved or c
 
 ## Hydration
 
-{{< figure src="my-website/images/hydration.png" caption="Urine specific gravity testing" link="/my-website/images/hydration.png" >}}
+{{< figure src="/my-website/images/hydration.png" caption="Urine specific gravity testing" link="/my-website/images/hydration.png" >}}
 
 Like clockwork, every Saturday before sunrise, I’d be poolside — clipboard in hand, collecting neatly labelled bottles from swimmers who were already stretching or warming up. Asking for urine samples at 5:30 am might sound awkward, but within the squad it was standard procedure — routine, professional, and completely normalised. The swimmers were used to it, and it was all handled without fuss or weirdness.
 
