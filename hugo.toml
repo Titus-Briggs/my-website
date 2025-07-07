@@ -58,5 +58,6 @@ lightbox = true
 
 # ===== Colours =====
 # not using for the time being
-# [params]
-#  customSCSS = ["css/_custom.scss"]
+
+[params]
+  customSCSS = []
