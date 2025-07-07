@@ -67,6 +67,8 @@ That experience solidified just how much I enjoy working at the intersection of 
 
 Since leaving, I was delighted to see the club featured in a BBC News segment highlighting its impressive scholarship programme and close ties with Nottingham’s two universities. David — one of the swimmers I got to know well — was front and centre. Seeing their continued success reminds me how valuable that chapter was in shaping how I think about performance, people, and potential.
 
+You can check out the post [here on LinkedIn](https://www.linkedin.com/posts/david-coyle-74998b209_nova-centurion-on-instagram-brilliant-article-activity-7290824598143598593-yFjb).
+
 ## The Data
 
 {{< figure src="/my-website/images/data_analysis.png" caption="Excel worksheet of raw data of swim times and averages" link="/my-website/images/data_analysis.png" width="60%" >}}
