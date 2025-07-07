@@ -48,55 +48,87 @@ Nottingham | Aug 2023 to May 2024
 <!--more-->
 ## Nova Centurion Swimming Club
 
-During my time at the club, I worked closely with over 40 elite swimmers, independently managing all aspects of performance analysis. I was responsible for collecting and cleaning data from a variety of sources—including heart rate monitors, hydration tracking, and lap times. I then interpreted this data to help athletes and coaches identify areas for improvement.
+During my time at the club, I worked hands-on with over 40 elite swimmers, independently leading all aspects of performance analysis. I gathered and cleaned data from heart rate monitors, hydration tools, lap timing systems and other sources, translating it into practical insights for athletes and coaches.
 
-A key part of my role involved poolside video analysis, using GoPros and iPads to capture swimmers during training. This allowed for quick, stroke-specific feedback—whether it was refining a freestyle entry or improving breaststroke timing. I regularly checked in with swimmers to discuss these clips and offer practical pointers they could apply immediately in the pool.
+By tracking time-series data and identifying longer-term performance trends, I supported coaches in shaping more targeted training sessions. I also designed visual dashboards and summary reports to aid evidence-based decisions. One of the most rewarding aspects was running collaborative goal-setting sessions — helping athletes translate technical metrics into realistic, actionable targets.
 
-Using time-series data and performance trends, I helped coaches tailor training sessions more effectively. I also created visual dashboards and reports that supported evidence-based decision-making. One of the most rewarding aspects of the role was working directly with athletes in goal-setting sessions—translating complex data into clear, realistic performance targets.
+Outside of analysis, I liaised with external suppliers like 1080 Motion to explore new tools for performance enhancement. I also got stuck into club events, including swim meets, where I handled branding — from concept to print — producing sponsor-backed banners that still hang proudly at the pool today.
 
-Beyond analysis, I took on additional responsibilities such as liaising with companies like 1080 Motion to explore how their equipment could enhance our swimmers’ capabilities. I also supported club events, including swim meets, where I designed branded banners featuring sponsor and club logos. These were professionally printed and are still proudly displayed at the pool today.
+All data was handled securely, in full compliance with GDPR and safeguarding policies, and I regularly presented my findings to senior coaching staff as part of wider discussions on athlete progression and long-term development.
 
-I ensured all data was handled securely, following GDPR and safeguarding guidelines to protect athlete privacy. I regularly presented findings to senior coaching staff, contributing to broader discussions around athlete development and long-term planning.
 
 ## Reflections and Highlights
 
-One standout moment was travelling with the team to Liverpool at the end of Cycle 2. Many swimmers achieved personal bests at that meet, which was a powerful validation of the work the coaches and I had done together.
+One memorable highlight was travelling with the team to Liverpool at the end of Cycle 2. That meet saw many swimmers hit personal bests — a real validation of the work we’d done together as a coaching and support team.
 
-I’m especially proud that eight of our swimmers qualified for the Olympic trials during my time at the club—an achievement that reflects the strength of the programme and the collaborative effort behind it.
+I’m particularly proud that eight swimmers qualified for the Olympic trials during my time at the club. It speaks volumes about the strength of the programme and the collaborative effort driving it forward — data, coaching, and athlete commitment all pulling in the same direction.
 
-This experience confirmed how much I enjoy combining data with human performance—not just analysing numbers, but using them to help people grow and reach their goals. It also pushed me to keep learning—whether that meant improving my data visualisation skills, diving deeper into biomechanics, or finding better ways to communicate insights to non-technical audiences.
+That experience solidified just how much I enjoy working at the intersection of performance data and human potential. It’s not just about crunching numbers — it’s about using insight to unlock growth, identify meaningful goals, and support people as they push beyond what they thought possible. Along the way, I found myself diving deeper into data visualisation, exploring the biomechanics of elite movement, and constantly thinking about how best to communicate technical insight to a broader audience.
+
+Since leaving, I was delighted to see the club featured in a BBC News segment highlighting its impressive scholarship programme and close ties with Nottingham’s two universities. David — one of the swimmers I got to know well — was front and centre. Seeing their continued success reminds me how valuable that chapter was in shaping how I think about performance, people, and potential.
 
 ## The Data
 
 {{< figure src="/my-website/images/data_analysis.png" caption="Excel worksheet of raw data of swim times and averages" link="/my-website/images/data_analysis.png" width="60%" >}}
 
-I collected all time data by hand as swimmers came into the wall—jotting down times while trying to remember who finished in which lane, often just seconds apart. It was definitely a shock in my first week; the pace was relentless, and there was no room for hesitation. But I quickly realised that staying organised, thinking ahead, and keeping calm under pressure were key to staying on top of it.
+Pivotal to my role was the manual collection of lap times. I recorded finishes as swimmers hit the wall—scribbling times while mentally tracking who touched in which lane, often just seconds apart. The pace was relentless, and there was no margin for hesitation. It was a baptism of fire, but I quickly learned the importance of staying organised, thinking ahead, and keeping calm under pressure.
 
-As the swimmers swam down, I’d transfer everything into Excel spreadsheets (like the one pictured above). I calculated the average split time for each set—both as a whole and in sections where applicable—then compared it to the previous week’s average and the swimmer’s cycle average. I’d write it all up on a whiteboard so swimmers could visually track their progress week by week, which became a powerful motivator during tough training blocks.
+Between sets, while the athletes were swimming down, I transferred everything into spreadsheets (like the one pictured above). I’d calculate average split times for each set, along with sectional breakdowns where relevant, and compare them to previous sessions and cycle averages. Each week, I’d share the stats on a whiteboard so swimmers could track their progress visually — a small ritual that turned into a strong motivational anchor during tough training blocks.
 
-If time allowed during the session, I also created dashboards to visualise trends and highlight standout performances. However, this was often a challenge—I was balancing this role alongside a management job, with most days starting at 4am and finishing after 7pm, with just enough time to eat in between jobs.
+When time allowed, I created dashboards to highlight trends and standout performances. But truthfully, fitting that in around a full-on schedule was a challenge. I arriving at the pool by 5:15 to set up for morning training before heading straight to my management job — then returning again for the evening session. It was relentless, and most days left little time for any rest.
 
-After a couple of months, I experienced burnout for the first time. It was a difficult period, and I had to take a step back and reassess how I was managing my time and energy. But it became a turning point. I became more proactive in setting boundaries, prioritising tasks, and finding smarter ways to work under pressure.
+What kept me going was the sheer dedication I saw in the swimmers — showing up day after day with focus, drive, and zero complaints. I had huge respect for their work ethic, and that motivated me to match their commitment in my own way. Even in the tougher moments, I wanted to make sure I was giving them the support they deserved.
 
-In hindsight, I wish I’d had more time to build dashboards consistently—but the fast-paced, ever-changing nature of training sessions made it difficult to produce meaningful, comparable data every time. Still, the experience taught me a huge amount about resilience, adaptability, and the importance of sustainable working habits—lessons I now carry into every project I take on.
+Eventually, the inevitable caught up with me and I experienced burnout for the first time. It was a difficult chapter, but one that forced me to reassess how I worked. I learned to set firmer boundaries, prioritise more effectively, and find smarter, more sustainable ways to manage pressure — lessons I now carry with me into every project.
+
+In hindsight, I would’ve loved more time to refine those dashboards consistently. But the dynamic, fast-paced nature of training meant flexibility was key, and the experience taught me more about resilience and adaptability than any spreadsheet ever could.
+
+## Technique Analysis
+
+A core part of my role involved poolside video analysis, using GoPros and iPads to capture training sessions from multiple angles. We’d film specific sets or drills — often focusing on starts, turns, or pacing segments — so swimmers could immediately watch their technique and reflect on what needed adjusting.
+
+This approach enabled instant, stroke-specific feedback. Whether it was sharpening a freestyle entry, maintaining streamline off the wall, or correcting a timing issue on breaststroke, the visual element gave swimmers a new level of understanding. Many of them were quick to engage with it — watching clips back between reps or discussing technique on the spot during recovery intervals.
+
+Beyond technical gains, it helped strengthen relationships. The process created a two-way dialogue: swimmers became more confident analysing their own performances, and I learned how different athletes absorbed feedback best — some visually, others through analogy or focused key words.
+
+Even without editing software or extended review time, the combination of accessible technology and real-time playback made a tangible impact in day-to-day training. For the athletes, it turned abstract corrections into visible cues. For me, it underscored just how powerful simple tools can be when used consistently and with purpose.
+
+## Heart Rate Tracking
+
+{{< figure src="/my/website/images/polar_monitor.png" caption="Polar heart rate monitor" link="/my-website/images/polar_monitor.png" >}}
+
+{{< figure src="/my-website/images/HR.png" caption="Monitoring heart rate zones of swimmers" link="/my-website/images/HR.png" >}}
+
+Each session, swimmers wore Polar heart rate monitors clipped to their goggles. This allowed the head coach to implement zonal training — a highly effective approach that could be tailored to each athlete, whether they were sprinters, distance swimmers, or coming back from injury.
+
+Swimmers were often keen to review their data after key sets, particularly their recovery rates and how hard they’d pushed within target zones. It became a meaningful way for them to reflect on their effort — and for us to ensure their training intensity matched individual capacity, not just the pace of the group.
+
+This mattered especially in a squad with such varied profiles — different ages, genders, and stages of development all training side by side. Time is a useful metric, but it doesn’t always tell the full story. Heart rate data offered a more personalised lens into each swimmer’s physiological response, helping us coach with more nuance and care.
+
+It was particularly valuable in cases where swimmers were returning from injury, or for our Para swimmer, who trained with remarkable consistency. Being able to monitor effort through zones helped keep sessions productive without tipping into overload.
+
+In hindsight, I’d have loved to dig deeper into long-term patterns — comparing weekly zone distribution, recovery trajectories, and perhaps even linking heart rate data to taper outcomes. There’s huge potential in that kind of analysis, and it’s something I’d jump at exploring further.
 
 ## Goal Setting
 
 {{< figure src="/my-website/images/goal_setting.png" caption="Goal setting with the swimmers and tracking how far from targets at swim meets" link="/my-website/images/goal_setting.png" >}}
 
-**ADD EXPLANATION**
+At the start of each cycle, I worked with swimmers to set both performance targets and technical goals — whether that meant hitting a new 100 m PB or refining their breakout from the wall. It wasn’t just about chasing time; we aimed to make their goals as specific, personal, and measurable as possible.
 
-## Heart Rate Tracking
+At every swim meet, I updated a central spreadsheet with their best times, calculating how close they were to their personal bests and target splits — both in percentages and raw seconds. While we gathered plenty of day-to-day training data, it was those meets that gave swimmers a clearer sense of progression. Being less frequent, they stood as proper milestones — moments to pause, reflect, and re-calibrate.
 
-{{< figure src="/my-website/images/HR.png" caption="Monitoring heart rate zones of swimmers" link="/my-website/images/HR.png" >}}
+This process became a strong motivator. Swimmers would often check in to see how far off they were from a certain target or how they were trending across cycles. The visual feedback — especially when paired with consistent goal updates — helped them stay focused during long blocks of training.
 
-**ADD EXPLANATION**
+We revisited and adjusted goals regularly, especially as technique improved or confidence grew. I found this aspect of the role particularly rewarding — especially early on, when I was still getting to know the squad. It gave me a real window into each athlete’s mindset, their ambitions, and the quiet drive that powered their progress in and out of the pool.
 
 ## Hydration
 
-(maybe photo that i got of the pipettes and the reader)
+{{< figure src="my-website/images/hydration.png" caption="Urine specific gravity testing" link="/my-website/images/hydration.png" >}}
 
-jokey bit about it being every Saturday before the sun was up asking swimmers for their 
-bottles of pee
+Like clockwork, every Saturday before sunrise, I’d be poolside — clipboard in hand, collecting neatly labelled bottles from swimmers who were already stretching or warming up. Asking for urine samples at 5:30 am might sound awkward, but within the squad it was standard procedure — routine, professional, and completely normalised. The swimmers were used to it, and it was all handled without fuss or weirdness.
 
-say how it was important as it was easy to overlook, easily controllable, and makes a huge impact on performance 
+Hydration testing might not be the most glamorous aspect of performance support, but it was one of the most impactful. It's often overlooked despite being one of the easiest variables to control — and it plays a huge role in recovery, output, and overall consistency in the water.
+
+After testing, I gave each swimmer their individual results privately, with a quick explanation of where they stood. Over time, it became a bit of a friendly rivalry — athletes competing (quietly) to be the most consistent or to bounce back quickest after hard sessions. That unspoken competition actually helped me keep them engaged and proactive — they took ownership of it, which made the data far more meaningful.
+
+It’s not the sort of work that makes the highlight reel, but it quietly underpinned a lot of the athletes’ day-to-day success — and reinforced how the smallest habits can create the biggest differences when practiced consistently.
