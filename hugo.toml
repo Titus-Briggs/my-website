@@ -52,15 +52,9 @@ lightbox = true
 
 # ===== Contact me =====
 
-[[params.social]]
-name = "LinkedIn"
-icon = "fa-brands fa-linkedin"
-url = "https://www.linkedin.com/in/titus-briggs-sports-data-analyst-1584b025a/"
-
-[[params.social]]
-name = "Email"
-icon = "fa-solid fa-envelope"
-url = "mailto:briggstitus123@gmail.com"
+[params.social]
+  LinkedIn = "https://www.linkedin.com/in/titus-briggs-sports-data-analyst-1584b025a/"
+  Email = "mailto:briggstitus123@gmail.com"
 
 # Colours
 
