@@ -56,7 +56,7 @@ lightbox = true
   LinkedIn = "https://www.linkedin.com/in/titus-briggs-sports-data-analyst-1584b025a/"
   Email = "mailto:briggstitus123@gmail.com"
 
-# Colours
-
+# ===== Colours =====
+# not using for the time being but will update when happy with look
  #[params]
  # customSCSS = ["css/_custom.scss"]

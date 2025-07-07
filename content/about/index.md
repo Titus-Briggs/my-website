@@ -23,3 +23,15 @@ I’ve had the chance to apply my academic learning in high-performance environm
 Currently, I’m further developing my technical skillset through Harvard’s CS50, with a focus on Python, data visualisation, and systems thinking. I’m also developing a growing interest in track cycling — particularly in how biomechanics and data analytics can inform equipment choices, performance profiling, and athlete development.
 
 I’m drawn to roles where analytical thinking, human insight, and attention to detail come together — where small changes create big impact, and where data doesn’t just inform, but empowers.
+
+## Contact me
+
+<p>
+  <i class="fas fa-envelope"></i>
+  <a href="mailto:briggstitus123@gmail.com">briggstitus123@gmail.com</a><br>
+
+  <i class="fab fa-linkedin"></i>
+  <a href="https://www.linkedin.com/in/titus-briggs-sports-data-analyst-1584b025a/" target="_blank">
+    linkedin.com/in/titus-briggs-sports-data-analyst-1584b025a
+  </a>
+</p>
