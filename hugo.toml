@@ -3,7 +3,7 @@ languageCode = 'en-uk'
 title = 'Titus Briggs Portfolio'
 theme = 'FixIt'
 
-# ===== Direct html image sizing (example if testing, nova logo) =====
+# ===== Direct html image sizing =====
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
@@ -57,6 +57,13 @@ lightbox = true
   Email = "mailto:briggstitus123@gmail.com"
 
 # ===== Colours =====
+
+[params]
+  colorScheme = "light"         # Default to light mode
+  colorSchemeToggle = true      # Enable toggle button for switching modes
+
+
+
 # not using for the time being
 
 [params]
