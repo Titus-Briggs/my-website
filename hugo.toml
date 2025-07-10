@@ -62,9 +62,5 @@ lightbox = true
   colorScheme = "light"         # Default to light mode
   colorSchemeToggle = true      # Enable toggle button for switching modes
 
-
-
 # not using for the time being
-
-[params]
   customSCSS = []
