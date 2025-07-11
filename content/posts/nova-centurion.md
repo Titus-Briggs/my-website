@@ -113,7 +113,7 @@ In hindsight, I’d have loved to dig deeper into long-term patterns — compari
 
 ## Goal Setting
 
-{{< figure src="/my-website/images/goal_setting.png" caption="Goal setting with the swimmers and tracking how far from targets at swim meets" link="/my-website/images/goal_setting.png" >}}
+{{< figure src="/my-website/images/goal_setting.png" caption="Goal setting and progress" link="/my-website/images/goal_setting.png" >}}
 
 At the start of each cycle, I worked with swimmers to set both performance targets and technical goals — whether that meant hitting a new 100 m PB or refining their breakout from the wall. It wasn’t just about chasing time; we aimed to make their goals as specific, personal, and measurable as possible.
 
