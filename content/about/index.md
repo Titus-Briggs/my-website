@@ -30,7 +30,7 @@ I've applied my academic knowledge in elite sport settings — most notably at N
 
 I’m currently expanding my technical skillset through Harvard’s CS50, with a focus on Python, data visualisation, and systems thinking. I’ve been exploring tools like Tableau and Catapult to turn raw performance data into actionable insight — whether visualising training load trends or mapping behavioural patterns across environments.
 
-I’m drawn to roles where analytical thinking, human insight, and attention to detail come together — where data doesn’t just inform, but empowers.
+I’m drawn to roles where analytical thinking, human insight, and attention to detail come together — where data doesn’t just inform, but empowers. 
 
 ## Contact me
 
