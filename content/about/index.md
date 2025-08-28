@@ -36,10 +36,10 @@ I’m drawn to roles where analytical thinking, human insight, and attention to 
 
 <p>
   <i class="fas fa-envelope"></i>
-  <a href="mailto:briggstitus123@gmail.com">briggstitus123@gmail.com</a><br>
+  <a href="mailto:briggstitus@icloud.com">briggstitus@icloud.com</a><br>
 
   <i class="fab fa-linkedin"></i>
-  <a href="https://www.linkedin.com/in/titus-briggs-sports-data-analyst-1584b025a/" target="_blank">
+  <a href="https://www.linkedin.com/in/titus-briggs-1584b025a/" target="_blank">
     linkedin.com/in/titus-briggs-sports-data-analyst-1584b025a
   </a>
 </p>
