@@ -32,8 +32,6 @@ I’m currently expanding my technical skillset through Harvard’s CS50, with a
 
 I’m drawn to roles where analytical thinking, human insight, and attention to detail come together — where data doesn’t just inform, but empowers. 
 
-Hi this is a test
-
 ## Contact me
 
 <p>
