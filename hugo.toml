@@ -62,5 +62,9 @@ lightbox = true
   colorScheme = "light"
   colorSchemeToggle = true
 
+# ===== Date format =====
+  dateFormat = "02/01/2006"
+
+
 # not using for the time being
   customSCSS = []

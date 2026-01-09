@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Draft - Category - Titus Briggs Portfolio</title>
+    <link>http://localhost:1313/my-website/categories/draft/</link>
+    <description>Titus Briggs Portfolio</description>
+    <generator>Hugo 0.147.9 &amp; FixIt v0.4.0-alpha-20250704082734-193fd193</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Thu, 25 Dec 2025 10:54:26 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/my-website/categories/draft/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Graduation</title>
+      <link>http://localhost:1313/my-website/posts/530101e/</link>
+      <pubDate>Thu, 25 Dec 2025 10:54:26 +0000</pubDate>
+      <guid>http://localhost:1313/my-website/posts/530101e/</guid>
+      <category domain="http://localhost:1313/my-website/categories/draft/">Draft</category>
+      <description>&lt;p&gt;&lt;strong&gt;Graduated&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

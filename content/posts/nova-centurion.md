@@ -48,7 +48,7 @@ Nottingham | Aug 2023 to May 2024
 <!--more-->
 ## Nova Centurion Swimming Club
 
-During my time at the club, I worked hands-on with over 40 elite swimmers, independently leading all aspects of performance analysis. I gathered and cleaned data from heart rate monitors, hydration tools, lap timing systems and other sources, translating it into practical insights for athletes and coaches.
+During my time at the club, I worked hands-on with 30+ elite swimmers, independently leading all aspects of performance analysis. I gathered and cleaned data from heart rate monitors, hydration tools, lap timing systems and other sources, translating it into practical insights for athletes and coaches.
 
 By tracking time-series data and identifying longer-term performance trends, I supported coaches in shaping more targeted training sessions. I also designed visual dashboards and summary reports to aid evidence-based decisions. One of the most rewarding aspects was running collaborative goal-setting sessions — helping athletes translate technical metrics into realistic, actionable targets.
 

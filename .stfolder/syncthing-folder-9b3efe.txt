@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: ux2mu-qbknn
+created: 2025-12-20T01:21:31Z
