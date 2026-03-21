@@ -1,36 +1,38 @@
 # Who am I?
 
-Hi, I’m **Titus Briggs** — a **Sport and Exercise Science** graduate from Nottingham Trent University with a passion for bridging the gap between human performance and data.
+Hi, I’m **Titus Briggs** — a data-driven problem solver with a background in Sport and Exercise Science and a growing career in analytics, product thinking, and technical systems.
 
-Before shifting into performance analysis, I competed at an elite level myself, playing in the Harlequins Rugby Academy and the London Broncos Rugby League Academy. That experience instilled in me the discipline, resilience, and composure needed to perform under pressure. However, after a series of concussions — and with the disruption of COVID — I made the tough decision to step away from playing. It was a turning point that led me to explore performance from a new angle: through science, systems, and insight.
+My journey started in elite sport, competing in the Harlequins Rugby Academy and the London Broncos Rugby League Academy. Those years taught me discipline, resilience, and how to stay composed under pressure. After a series of concussions — and the disruption of COVID — I stepped away from playing and turned my focus toward understanding performance through data, systems, and insight.
 
-At university, I immersed myself in the core pillars of sport science:
+That shift shaped my academic path at Nottingham Trent University, where I explored the core pillars of sport science:
 
-* Physiology – understanding how the body responds to load and recovers from fatigue
+* Physiology — how the body responds to load
+* Biomechanics — movement, efficiency, and technique
+* Nutrition — fuelling performance and recovery
+* Psychology — mindset and behavioural insight
+* Injury & Illness — monitoring health and reducing risk
 
-* Biomechanics – analysing movement, technique, and mechanical efficiency
+These foundations still influence how I think today: analytical, evidence‑based, and human‑centred.
 
-* Nutrition – fuelling performance, recovery, and long-term development
+## Experience
 
-* Sport Psychology – mindset, motivation, and behavioural insight
-
-* Injury & Illness Management – tracking health and reducing risk in performance settings
-
-## Technical Experience
-
-Alongside my studies, I’ve built a long-standing career at Halfords, where I began with basic bike builds and progressed to handling advanced diagnostics across everything from hybrids to high-performance e-bikes. I stayed the course through lockdowns as a key worker, and later took on an interim management role, overseeing workshop operations and mentoring colleagues.
-
-Now, I’ve stepped into the Department Manager (Specialist) role — a natural progression that reflects my technical expertise, commitment to quality, and ability to lead with consistency. Whether solving problems on the shop floor or fine-tuning systems behind the scenes, I bring a methodical and customer-focused mindset to the role.
+Alongside my studies, I built a long-standing technical career at **Halfords**, progressing from basic bike builds to **Cycle Technician**. I initially worked through all lockdowns as a key worker, part-time throught education and upon graduating stepping into the **Department Manager** role. In this position I lead workshop operations, supported colleagues, and dealt with customer escalations and paper-trails.
 
 ## Performance Environments
 
-I've applied my academic knowledge in elite sport settings — most notably at Nova Centurion Swimming Club, where I supported Olympic trialists using video analysis, biometric tracking, hydration testing, and goal setting. Whether collecting data at dawn or breaking down footage poolside, I’m at my best when translating insight into action. See my post for more information.
+I applied my academic knowledge in elite sports settings, most notably at **Nova Centurion Swimming Club**, supporting Olympic trailists with:
+
+* Video analysis
+* Biometric tracking
+* Hydration testing
+* Performance reporting
+* Goal-setting
+
+Whether collecting data at dawn or breaking down footage poolside, I learned how to translate raw information into meaningful action.
 
 ## Where I'm Going
 
-I’m currently expanding my technical skillset through Harvard’s CS50, with a focus on Python, data visualisation, and systems thinking. I’ve been exploring tools like Tableau and Catapult to turn raw performance data into actionable insight — whether visualising training load trends or mapping behavioural patterns across environments.
-
-I’m drawn to roles where analytical thinking, human insight, and attention to detail come together — where data doesn’t just inform, but empowers. 
+I've recently accepted a role as **Data Product Assistant** at **SGS Engineering** where I'll be working across data, systems, and product workflows, with a bit of e-commerce thrown in too. My focus now is on building strong analytical foundations - Excel, data modelling, and product-oriented thinking - and applying them to real business problems. I am drawn to roles where data doesn't just inform decisions, but improves the systems behind them. I will continue to develop my skills in this role and see where it takes me...
 
 ## Contact me
 

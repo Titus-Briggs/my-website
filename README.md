@@ -2,30 +2,19 @@
 
 **[titus-briggs.github.io/my-website](https://titus-briggs.github.io/my-website/)**
 
-This site is a **work in progress** — a growing portfolio that documents my journey through sport science, data analysis, and technical development. It’s built using **Hugo**, styled with the **FixIt** theme, and currently hosted via **GitHub Pages** (with plans to self-host soon).
+This site is a **work in progress** — a growing portfolio that documents my journey from sport science into data, analysis, and product development development. It’s built using **Hugo**, styled with the **FixIt** theme, and currently hosted via **GitHub Pages**.
 
 ---
 
-As the site evolves, it will feature:
+### What's Here Right Now
 
-### Project Highlights
-- Biometric dashboards  
-- Python-powered analysis tools  
-- Performance support visualisations
+## Sports Science Data
+My placement year as a Sports Performance Data Analyst, exploring performance trends, biometric data, and applied analysis in a real training environment.
 
----
-
-### Technical Learning
-- Currently: Working through *CS50’s Introduction to Programming with Python* via edX  
-- Building real-world projects with Python and GitHub  
-- Exploring large-scale data handling and SQL
-
----
-
-### Insights & Reflections
-- Writing on training environments  
-- Coaching systems  
-- The role of data in decision-making
+## Down the Line
+- Transitioning into data work
+- Building analysis workflows
+- Building a portfolio of projects
 
 ---
 
