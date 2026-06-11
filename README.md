@@ -11,6 +11,12 @@ This site is a **work in progress** — a growing portfolio that documents my jo
 ## Sports Science Data
 My placement year as a Sports Performance Data Analyst, exploring performance trends, biometric data, and applied analysis in a real training environment.
 
+## Tools and Systems
+The environment I built for myself to manage workload at University.
+
+## What I am currently doing
+My new role as a **Product Data Assistant**
+
 ## Down the Line
 - Transitioning into data work
 - Building analysis workflows
