@@ -1,38 +1,48 @@
 # Who am I?
 
-Hi, I’m **Titus Briggs** — a data-driven problem solver with a background in Sport and Exercise Science and a growing career in analytics, product thinking, and technical systems.
+Hi, I’m **Titus Briggs** - a product‑data‑driven problem solver working at the intersection of data, systems, and commercial operations.
 
-My journey started in elite sport, competing in the Harlequins Rugby Academy and the London Broncos Rugby League Academy. Those years taught me discipline, resilience, and how to stay composed under pressure. After a series of concussions — and the disruption of COVID — I stepped away from playing and turned my focus toward understanding performance through data, systems, and insight.
+I currently work as a Product Data Assistant at SGS Engineering, where I manage products end‑to‑end across data, pricing, content, logistics, and e‑commerce. A major part of my role revolves around bundles — complex, high‑value product structures that shape how customers discover, compare, and buy.
 
-That shift shaped my academic path at Nottingham Trent University, where I explored the core pillars of sport science:
+I analyse sales patterns, customer behaviour, and range gaps to identify opportunities, then build, validate, and launch bundles that improve both the customer journey and commercial performance. My work spans:
 
-* Physiology — how the body responds to load
-* Biomechanics — movement, efficiency, and technique
-* Nutrition — fuelling performance and recovery
-* Psychology — mindset and behavioural insight
-* Injury & Illness — monitoring health and reducing risk
+- Data Analysis
+- Pricing Logic
+- PIM Expertise
+- E-commerce Optimisation
+- Continuous Improvement
 
-These foundations still influence how I think today: analytical, evidence‑based, and human‑centred.
+It’s a role where the work I do has a direct impact on the website, the customer experience, and the wider business — and that’s what I enjoy most.
 
-## Experience
+## How I Got Here
 
-Alongside my studies, I built a long-standing technical career at **Halfords**, progressing from basic bike builds to **Cycle Technician**. I initially worked through all lockdowns as a key worker, part-time throught education and upon graduating stepping into the **Department Manager** role. In this position I lead workshop operations, supported colleagues, and dealt with customer escalations and paper-trails.
+My route into product data wasn’t traditional — but it makes sense when you break it down.
 
-## Performance Environments
+I started in **elite sport**, spending my early years in the Harlequins and London Broncos academies. That environment taught me discipline, resilience, and how to operate under pressure. When concussions and COVID forced me to step away, I shifted my focus from performing to understanding performance.
 
-I applied my academic knowledge in elite sports settings, most notably at **Nova Centurion Swimming Club**, supporting Olympic trailists with:
+That led me to study **Sport & Exercise Science** at Nottingham Trent University, where I learned how to analyse systems — physiology, biomechanics, psychology, injury, recovery. It was my first real exposure to structured data, patterns, and evidence‑based thinking.
 
-* Video analysis
-* Biometric tracking
-* Hydration testing
-* Performance reporting
-* Goal-setting
+From there, I moved into **Sports Data Analysis**, working with Olympic‑level swimmers at Nova Centurion. I spent mornings collecting biometric data, breaking down video footage, and turning raw information into actionable insights. It taught me how to see the story behind the numbers.
 
-Whether collecting data at dawn or breaking down footage poolside, I learned how to translate raw information into meaningful action.
+Alongside all of this, I spent years at Halfords, progressing from basic bike builds to Cycle Technician and eventually **Department Manager**. That experience grounded me in operations, customer behaviour, problem‑solving, and the realities of running a department day‑to‑day.
+
+Somewhere in the middle of all that, I built my own productivity ecosystem — in **Doom Emacs**. The process taught me how systems fit together, how workflows break, and how to design tools that actually support the work. It also led to this **website**, where I document what I'm learning, how I work, and how my thinking evolves over time.
+
+Put all of that together — elite sport, scientific analysis, operational experience, and a love of systems — and the path becomes clear.
+
+It’s the combination that led me to where I am now:
+A Product Data Assistant at SGS Engineering, working in a tools and tool‑storage company where structured data, commercial logic, and system design all intersect.
+
 
 ## Where I'm Going
 
-I've recently accepted a role as **Product Data Assistant** at **SGS Engineering** where I'll be working across data, systems, and product workflows, with a bit of e-commerce thrown in too. My focus now is on building strong analytical foundations - Excel, data modelling, and product-oriented thinking - and applying them to real business problems. I am drawn to roles where data doesn't just inform decisions, but improves the systems behind them. I will continue to develop my skills in this role and see where it takes me...
+My role at SGS has opened up a range of career paths — from product data leadership to PIM management, commercial analysis, and technical product roles. I’m not locking myself into one direction; I’m building the skills and experience that will let me grow naturally as opportunities appear.
+
+To support that, I’m beginning structured SQL learning to deepen my analytical capability and expand my long‑term career prospects. SQL fits perfectly with the work I already do — data relationships, product structures, pricing logic, and operational reporting — and it’s a skill that will compound over time.
+
+Right now, my focus is simple:
+Keep learning, keep improving, and see where this role takes me.
+
 
 ## Contact me
 
