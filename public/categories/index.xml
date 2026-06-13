@@ -6,20 +6,20 @@
     <description>Recent content in Categories on Titus Briggs Portfolio</description>
     <generator>Hugo</generator>
     <language>en-uk</language>
-    <lastBuildDate>Sat, 21 Mar 2026 20:03:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 12:23:44 +0100</lastBuildDate>
     <atom:link href="https://titus-briggs.github.io/my-website/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data Analytics</title>
+      <link>https://titus-briggs.github.io/my-website/categories/data-analytics/</link>
+      <pubDate>Sat, 13 Jun 2026 12:23:44 +0100</pubDate>
+      <guid>https://titus-briggs.github.io/my-website/categories/data-analytics/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Tools and Systems</title>
       <link>https://titus-briggs.github.io/my-website/categories/tools-and-systems/</link>
       <pubDate>Sat, 21 Mar 2026 20:03:39 +0000</pubDate>
       <guid>https://titus-briggs.github.io/my-website/categories/tools-and-systems/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Data Analytics</title>
-      <link>https://titus-briggs.github.io/my-website/categories/data-analytics/</link>
-      <pubDate>Thu, 03 Jul 2025 10:10:14 +0100</pubDate>
-      <guid>https://titus-briggs.github.io/my-website/categories/data-analytics/</guid>
       <description></description>
     </item>
   </channel>

@@ -2,19 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://titus-briggs.github.io/my-website/categories/</loc>
-    <lastmod>2026-03-21T20:03:39+00:00</lastmod>
+    <lastmod>2026-06-13T12:23:44+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://titus-briggs.github.io/my-website/tags/data-analysis/</loc>
+    <lastmod>2026-06-13T12:23:44+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://titus-briggs.github.io/my-website/categories/data-analytics/</loc>
+    <lastmod>2026-06-13T12:23:44+01:00</lastmod>
   </url>
   <url>
     <loc>https://titus-briggs.github.io/my-website/posts/</loc>
-    <lastmod>2026-03-21T20:03:39+00:00</lastmod>
+    <lastmod>2026-06-13T12:23:44+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://titus-briggs.github.io/my-website/posts/604a6dc/</loc>
+    <lastmod>2026-06-13T12:23:44+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://titus-briggs.github.io/my-website/tags/sgs-engineering/</loc>
+    <lastmod>2026-06-13T12:23:44+01:00</lastmod>
   </url>
   <url>
     <loc>https://titus-briggs.github.io/my-website/tags/</loc>
-    <lastmod>2026-03-21T20:03:39+00:00</lastmod>
+    <lastmod>2026-06-13T12:23:44+01:00</lastmod>
   </url>
   <url>
     <loc>https://titus-briggs.github.io/my-website/</loc>
-    <lastmod>2026-03-21T20:03:39+00:00</lastmod>
+    <lastmod>2026-06-13T12:23:44+01:00</lastmod>
   </url>
   <url>
     <loc>https://titus-briggs.github.io/my-website/categories/tools-and-systems/</loc>
@@ -30,14 +46,6 @@
   </url>
   <url>
     <loc>https://titus-briggs.github.io/my-website/tags/athletes/</loc>
-    <lastmod>2025-07-03T10:10:14+01:00</lastmod>
-  </url>
-  <url>
-    <loc>https://titus-briggs.github.io/my-website/tags/data-analysis/</loc>
-    <lastmod>2025-07-03T10:10:14+01:00</lastmod>
-  </url>
-  <url>
-    <loc>https://titus-briggs.github.io/my-website/categories/data-analytics/</loc>
     <lastmod>2025-07-03T10:10:14+01:00</lastmod>
   </url>
   <url>

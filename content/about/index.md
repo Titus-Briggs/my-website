@@ -32,7 +32,7 @@ Whether collecting data at dawn or breaking down footage poolside, I learned how
 
 ## Where I'm Going
 
-I've recently accepted a role as **Data Product Assistant** at **SGS Engineering** where I'll be working across data, systems, and product workflows, with a bit of e-commerce thrown in too. My focus now is on building strong analytical foundations - Excel, data modelling, and product-oriented thinking - and applying them to real business problems. I am drawn to roles where data doesn't just inform decisions, but improves the systems behind them. I will continue to develop my skills in this role and see where it takes me...
+I've recently accepted a role as **Product Data Assistant** at **SGS Engineering** where I'll be working across data, systems, and product workflows, with a bit of e-commerce thrown in too. My focus now is on building strong analytical foundations - Excel, data modelling, and product-oriented thinking - and applying them to real business problems. I am drawn to roles where data doesn't just inform decisions, but improves the systems behind them. I will continue to develop my skills in this role and see where it takes me...
 
 ## Contact me
 
