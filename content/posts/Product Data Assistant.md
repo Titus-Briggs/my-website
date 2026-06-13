@@ -10,7 +10,7 @@ author:
   email: briggstitus123@gmail.com
   avatar: 
 description:
-keywords:Data, Data Analysis, PIM, Product Creation
+keywords: Data, Data Analysis, PIM, Product Creation
 license:
 comment: false
 weight: 0
