@@ -2,7 +2,7 @@
 
 Hi, I’m **Titus Briggs** - a product‑data‑driven problem solver working at the intersection of data, systems, and commercial operations.
 
-I currently work as a Product Data Assistant at SGS Engineering, where I manage products end‑to‑end across data, pricing, content, logistics, and e‑commerce. A major part of my role revolves around bundles — complex, high‑value product structures that shape how customers discover, compare, and buy.
+I currently work as a **Product Data Assistant** at SGS Engineering, where I manage products end‑to‑end across data, pricing, content, logistics, and e‑commerce. A major part of my role revolves around bundles — complex, high‑value product structures that shape how customers discover, compare, and buy.
 
 I analyse sales patterns, customer behaviour, and range gaps to identify opportunities, then build, validate, and launch bundles that improve both the customer journey and commercial performance. My work spans:
 
