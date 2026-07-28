@@ -52,6 +52,6 @@ Keep learning, keep improving, and see where this role takes me.
 
   <i class="fab fa-linkedin"></i>
   <a href="https://www.linkedin.com/in/titus-briggs-1584b025a/" target="_blank">
-    linkedin.com/in/titus-briggs-sports-data-analyst-1584b025a
+    Titus Briggs
   </a>
 </p>
